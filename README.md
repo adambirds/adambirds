@@ -16,6 +16,7 @@ Owner of [ADB Web Designs](https://adbwebdesigns.co.uk)
 ### My Projects
 * [adambirds/recipe-zulip](https://github.com/adambirds/recipe-zulip) - Official Zulip Recipe for Franz & Ferdi.
 * [adambirds/Hubot-DSC-Resource](https://github.com/adambirds/Hubot-DSC-Resource) - Powershell DSC Resource for Hubot.
+* [adambirds/xkcd-password-gen](https://github.com/adambirds/xkcd-password-gen) - Python Package to generate random passwords inspired by XKCD.
 
 ---
 ### Open-Source Projects Contributed To
