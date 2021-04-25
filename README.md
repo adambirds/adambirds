@@ -21,6 +21,7 @@ Owner of [ADB Web Designs](https://adbwebdesigns.co.uk)
 ---
 ### Open-Source Projects Contributed To
 * [zulip/zulip](https://github.com/zulip/zulip)
+* [getferdi/recipes](https://github.com/getferdi/recipes)
 
 ---
 ### Languages
