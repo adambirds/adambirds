@@ -81,6 +81,7 @@ Owner of [ADB Web Designs](https://adbwebdesigns.co.uk)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adambirds&theme=blue-green)
 
+---
 ### Contact Me
 
 <a href="https://wa.me/message/VRBO7LE6YHFIF1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
