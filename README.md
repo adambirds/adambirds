@@ -1,6 +1,8 @@
 ### Hi there, I'm Adam. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"/>
 
-Owner of [ADB Web Designs](https://adbwebdesigns.co.uk)
+Owner of [ADB Web Designs](https://adbwebdesigns.co.uk).
+
+Currently studying a [BSc (Honours) in Computing & IT (Software)](https://www.open.ac.uk/courses/computing-it/degrees/bsc-computing-it-software-q62-soft) degree at [The Open University](https://www.open.ac.uk). 
 
 ![](https://komarev.com/ghpvc/?username=your-adambirds&color=green&style=flat-square)
 
