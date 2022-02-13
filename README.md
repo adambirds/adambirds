@@ -19,6 +19,7 @@ Currently studying a [BSc (Honours) in Computing & IT (Software)](https://www.op
 * [adambirds/recipe-zulip](https://github.com/adambirds/recipe-zulip) - Official Zulip Recipe for Franz & Ferdi.
 * [adambirds/Hubot-DSC-Resource](https://github.com/adambirds/Hubot-DSC-Resource) - Powershell DSC Resource for Hubot.
 * [adambirds/xkcd-password-gen](https://github.com/adambirds/xkcd-password-gen) - Python Package to generate random passwords inspired by XKCD.
+* [adambirds/pythonrobot-twitch-bot](https://github.com/adambirds/pythonrobot-twitch-bot) - Twitch Bot written in Python.
 
 ---
 ### Open-Source Projects Contributed To
