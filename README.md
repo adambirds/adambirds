@@ -75,7 +75,7 @@ Currently studying a [BSc (Honours) in Computing & IT (Software)](https://www.op
 ---
 ### Websites
 
-<a href="https://adambirds.com"><img src="https://img.shields.io/badge/Personal_Website-D52027?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
+<a href="https://adambirds.co.uk"><img src="https://img.shields.io/badge/Personal_Website-D52027?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
 <a href="https://adbwebdesigns.co.uk"><img src="https://img.shields.io/badge/ADB_Web_Designs-517B8C?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
 
 ---
