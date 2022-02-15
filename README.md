@@ -10,7 +10,7 @@ Currently studying a [BSc (Honours) in Computing & IT (Software)](https://www.op
 ---
 ### Interests
 * Web Design
-* Python Scripting
+* Python Development
 * Powershell Scripting
 * Open-Source Contributions
 
