@@ -25,6 +25,7 @@ Currently studying a [BSc (Honours) in Computing & IT (Software)](https://www.op
 ### Open-Source Projects Contributed To
 * [zulip/zulip](https://github.com/zulip/zulip)
 * [getferdi/recipes](https://github.com/getferdi/recipes)
+* [gunnershents/blackjack](https://github.com/gunnershents/blackjack)
 
 ---
 ### Languages
