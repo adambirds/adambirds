@@ -79,6 +79,16 @@ Currently studying a [BSc (Honours) in Computing & IT (Software)](https://www.op
 <a href="https://adbwebdesigns.co.uk"><img src="https://img.shields.io/badge/ADB_Web_Designs-517B8C?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
 
 ---
+### Client Websites
+
+<a href="https://budgetgirl.com"><img src="https://img.shields.io/badge/Budget_Girl-BEE6DC?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
+<a href="https://carepackageinabox.co.uk"><img src="https://img.shields.io/badge/Care_Package_In_A_Box-C3E0DC?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
+<a href="https://suescents.co.uk"><img src="https://img.shields.io/badge/Sue's_Scents-FF63B1?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
+<a href="https://sundayleaguesports.com"><img src="https://img.shields.io/badge/Sunday_League_Sports-D40B0B?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
+<a href="https://victorianbuschaters.com.au"><img src="https://img.shields.io/badge/Victorian_Bus_Charters-135276?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
+<a href="https://welcometo.travel"><img src="https://img.shields.io/badge/Welcome_To_Travel-FFCE00?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
+
+---
 ### Stats
 
 ![Adam Birds Github Stats](https://github-readme-stats.vercel.app/api?username=adambirds&theme=blue-green)
