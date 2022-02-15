@@ -74,6 +74,11 @@ Currently studying a [BSc (Honours) in Computing & IT (Software)](https://www.op
 <a href="https://www.fiverr.com/adbwebdesigns"><img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/></a>
 
 ---
+### Streaming
+
+<a href="https://twitch.tv/codingandgamingwithadam"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
+
+---
 ### Personal Social
 
 <a href="https://discord.gg/f5veJaa4ZX"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a> 
