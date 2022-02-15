@@ -58,6 +58,7 @@ Currently studying a [BSc (Honours) in Computing & IT (Software)](https://www.op
 ---
 ### Personal Social
 
+<a href="https://discord.gg/f5veJaa4ZX"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a> 
 <a href="https://www.linkedin.com/in/adambirds"><img src="https://img.shields.io/badge/adambirds%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
 <a href="https://twitter.com/adam_birds"><img src="https://img.shields.io/badge/adam_birds%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 <a href="https://instagram.com/adambirds"><img src="https://img.shields.io/badge/adambirds-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
