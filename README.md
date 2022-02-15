@@ -33,6 +33,7 @@ Currently studying a [BSc (Honours) in Computing & IT (Software)](https://www.op
 <a href="https://github.com/PowerShell/PowerShell"><img src="https://img.shields.io/badge/powershell-0074D0.svg?&style=for-the-badge&logo=powershell&logoColor=white"/></a> 
 <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/></a>
 <a href="https://daringfireball.net/projects/markdown/"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/></a>
+<a href="https://www.cprogramming.com"><img src="https://img.shields.io/badge/C-274DA8?style=for-the-badge&logo=c&logoColor=white"/></a>
 
 ---
 ### Databases
