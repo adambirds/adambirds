@@ -46,9 +46,12 @@ Currently studying a [BSc (Honours) in Computing & IT (Software)](https://www.op
 ### Operating Systems
 
 <a href="https://www.microsoft.com/en-in/windows"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+<a href="https://www.linux.org"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
 <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
 <a href="https://www.centos.org"><img src="https://img.shields.io/badge/CentOS-8E2175?style=for-the-badge&logo=centos&logoColor=white"></a>
+<a href="https://www.redhat.com/en"><img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"></a>
 <a href="https://www.apple.com/uk/ios"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"></a>
+<a href="https://www.apple.com/uk/macos"><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"></a> 
 <a href="https://www.android.com/intl/en_in/"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a> 
 
 ---
