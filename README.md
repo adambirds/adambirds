@@ -27,6 +27,7 @@ Currently studying a [BSc (Honours) in Computing & IT (Software)](https://www.op
 * [zulip/zulip](https://github.com/zulip/zulip)
 * [getferdi/recipes](https://github.com/getferdi/recipes)
 * [gunnershents/blackjack](https://github.com/gunnershents/blackjack)
+* [twitchio/twitchio](https://github.com/twitchio/twitchio)
 
 ---
 ### Languages
