@@ -23,6 +23,10 @@ Currently studying a [BSc (Honours) in Computing & IT (Software)](https://www.op
 * [adambirds/python-discord-insult-bot](https://github.com/adambirds/python-discord-insult-bot) - Discord Bot written in Python to insult people.
 
 ---
+### Paid Client Projects
+* [emoshape/metasoul-twitch](https://github.com/emoshape/metasoul-twitch) - Twitch Bot written in Python for a client to upload messages to an API.
+
+---
 ### Open-Source Projects Contributed To
 * [zulip/zulip](https://github.com/zulip/zulip)
 * [getferdi/recipes](https://github.com/getferdi/recipes)
