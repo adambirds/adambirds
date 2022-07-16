@@ -85,6 +85,7 @@ Currently studying a [BSc (Honours) in Computing & IT (Software)](https://www.op
 ### Streaming
 
 <a href="https://twitch.tv/codingandgamingwithadam"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
+<a href="https://www.youtube.com/channel/UCOJ37qE6yr-7fspsgzpTGkQ"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
 ---
 ### Personal Social
