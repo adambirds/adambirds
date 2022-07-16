@@ -21,7 +21,7 @@ Currently studying a [BSc (Honours) in Computing & IT (Software)](https://www.op
 * [adambirds/xkcd-password-gen](https://github.com/adambirds/xkcd-password-gen) - Python Package to generate random passwords inspired by XKCD.
 * [adambirds/pythonrobot-twitch-bot](https://github.com/adambirds/pythonrobot-twitch-bot) - Twitch Bot written in Python.
 * [adambirds/python-discord-insult-bot](https://github.com/adambirds/python-discord-insult-bot) - Discord Bot written in Python to insult people.
-* [adambirds/ssl-cert-expiry-checker](https://github.com/adambirds/ssl-cert-expiry-checker) - SSL Certificate Expiry Tracker written in Python with notifications to Zulip, Slack, Discord etc.
+* [adambirds/ssl-cert-expiry-tracker](https://github.com/adambirds/ssl-cert-expiry-tracker) - SSL Certificate Expiry Tracker written in Python with notifications to Zulip, Slack, Discord etc.
 * [adb-web-designs/domain-expiration-checker](https://github.com/adb-web-designs/domain-expiration-checker) - Domain Expiry Tracker written in Python with notifications to Zulip, Discord etc.
 
 ---
