@@ -16,13 +16,14 @@ Currently studying a [BSc (Honours) in Computing & IT (Software)](https://www.op
 
 ---
 ### My Projects
-* [adambirds/recipe-zulip](https://github.com/adambirds/recipe-zulip) - Official Zulip Recipe for Franz & Ferdi.
-* [adambirds/Hubot-DSC-Resource](https://github.com/adambirds/Hubot-DSC-Resource) - Powershell DSC Resource for Hubot.
 * [adambirds/xkcd-password-gen](https://github.com/adambirds/xkcd-password-gen) - Python Package to generate random passwords inspired by XKCD.
+* [adambirds/xkcd-pass-pwsh](https://github.com/adambirds/xkcd-pass-pwsh) - PowerShell Module to generate random passwords inspired by XKCD.
 * [adambirds/pythonrobot-twitch-bot](https://github.com/adambirds/pythonrobot-twitch-bot) - Twitch Bot written in Python.
 * [adambirds/python-discord-insult-bot](https://github.com/adambirds/python-discord-insult-bot) - Discord Bot written in Python to insult people.
 * [adambirds/ssl-cert-expiry-tracker](https://github.com/adambirds/ssl-cert-expiry-tracker) - SSL Certificate Expiry Tracker written in Python with notifications to Zulip, Slack, Discord etc.
 * [adb-web-designs/domain-expiration-checker](https://github.com/adb-web-designs/domain-expiration-checker) - Domain Expiry Tracker written in Python with notifications to Zulip, Discord etc.
+* [adambirds/recipe-zulip](https://github.com/adambirds/recipe-zulip) - Official Zulip Recipe for Franz & Ferdi.
+* [adambirds/Hubot-DSC-Resource](https://github.com/adambirds/Hubot-DSC-Resource) - Powershell DSC Resource for Hubot.
 
 ---
 ### Paid Client Projects
