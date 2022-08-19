@@ -16,7 +16,7 @@ Currently studying a [BSc (Honours) in Computing & IT (Software)](https://www.op
 
 ---
 ### My Projects
-* [adambirds/xkcd-password-gen](https://github.com/adambirds/xkcd-password-gen) - Python Package to generate random passwords inspired by XKCD.
+* [adambirds/xkcd-pass-python](https://github.com/adambirds/xkcd-pass-python) - Python Package to generate random passwords inspired by XKCD.
 * [adambirds/xkcd-pass-pwsh](https://github.com/adambirds/xkcd-pass-pwsh) - PowerShell Module to generate random passwords inspired by XKCD.
 * [adambirds/pythonrobot-twitch-bot](https://github.com/adambirds/pythonrobot-twitch-bot) - Twitch Bot written in Python.
 * [adambirds/python-discord-insult-bot](https://github.com/adambirds/python-discord-insult-bot) - Discord Bot written in Python to insult people.
