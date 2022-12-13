@@ -28,6 +28,7 @@ Currently studying a [BSc (Honours) in Computing & IT (Software)](https://www.op
 ---
 ### Paid Client Projects
 * [emoshape/metasoul-twitch](https://github.com/emoshape/metasoul-twitch) - Twitch Bot written in Python for a client to upload messages to an API.
+* [adb-web-designs/vanderwood-twitch-bot](https://github.com/adb-web-designs/vanderwood-twitch-bot) - Twitch Bot written in Python for a client to provide a twitch chat game which tracks subscriptions, watches, channel reward redemptions and assigns points for each.
 
 ---
 ### Open-Source Projects Contributed To
