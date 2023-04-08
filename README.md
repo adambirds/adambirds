@@ -24,6 +24,7 @@ Currently studying a [BSc (Honours) in Computing & IT (Software)](https://www.op
 * [adambirds/domain-expiration-checker](https://github.com/adambirds/domain-expiration-checker) - Domain Expiry Tracker written in Python with notifications to Zulip, Discord etc.
 * [adambirds/recipe-zulip](https://github.com/adambirds/recipe-zulip) - Official Zulip Recipe for Franz & Ferdi.
 * [adambirds/Hubot-DSC-Resource](https://github.com/adambirds/Hubot-DSC-Resource) - Powershell DSC Resource for Hubot.
+* [adambirds/docker-compose-action](https://github.com/adambirds/docker-compose-action) - Github Action to allow running tests inside docker compose containers.
 
 ---
 ### Paid Client Projects
