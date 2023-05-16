@@ -26,6 +26,7 @@ Currently studying a [BSc (Honours) in Computing & IT (Software)](https://www.op
 * [adambirds/Hubot-DSC-Resource](https://github.com/adambirds/Hubot-DSC-Resource) - Powershell DSC Resource for Hubot.
 * [adambirds/docker-compose-action](https://github.com/adambirds/docker-compose-action) - Github Action to allow running tests inside docker compose containers.
 * [adambirds/sync-github-to-gitlab-action](https://github.com/adambirds/sync-github-to-gitlab-action) - GitHub Action to sync GitHub repository to Gitlab as a mirror.
+* [adambirds/horse-racing-tracker](https://github.com/adambirds/horse-racing-tracker) - Python script which uses the Sporting Life website to track whether horses are running on that day and send various notifications.
 
 ---
 ### Paid Client Projects
