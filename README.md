@@ -55,7 +55,9 @@ Currently studying a [BSc (Honours) in Computing & IT (Software)](https://www.op
 ### Databases
 
 <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/></a>
-<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/></a> 
+<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/></a>
+<a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/></a>
+<a href="https://redis.io/"><img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/></a>
 
 ---
 ### Frameworks
