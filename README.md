@@ -1,6 +1,6 @@
 ### Hi there, I'm Adam. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"/>
 
-Owner of [ADB Web Designs](https://adbwebdesigns.co.uk) and currently developing [VastDesk](https://github.com/vastdesk) which will be a SaaS web application built with Django, GraphQL, NextJS, TailwindCSS and Celery providing services such as a support ticket system, project manegement tools and more.
+Owner of [ADB Web Designs](https://adbwebdesigns.co.uk), Co-Founder & CTO of [FlipLytics](https://fliplytics.co.uk), a SaaS application to support eBay resellers manage their business more efficiently, built with Django, GraphQL, Celery, NextJS, TailwindCSS, PostgreSQL and Redis as well as working on a long term project developing [VastDesk](https://github.com/vastdesk) which will also be a SaaS web application built with Django, GraphQL, NextJS, TailwindCSS and Celery providing services such as a support ticket system, project manegement tools and more.
 
 Currently studying a [BSc (Honours) in Computing & IT (Software)](https://www.open.ac.uk/courses/computing-it/degrees/bsc-computing-it-software-q62-soft) degree at [The Open University](https://www.open.ac.uk). 
 
