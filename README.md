@@ -2,20 +2,24 @@
 
 Owner of [ADB Web Designs](https://adbwebdesigns.co.uk), Co-Founder & CTO of [FlipLytics](https://fliplytics.co.uk), a SaaS application to support eBay resellers manage their business more efficiently, built with Django, GraphQL, Celery, NextJS, TailwindCSS, PostgreSQL and Redis as well as working on a long term project developing [VastDesk](https://github.com/vastdesk) which will also be a SaaS web application built with Django, GraphQL, NextJS, TailwindCSS and Celery providing services such as a support ticket system, project manegement tools and more.
 
-Currently studying a [BSc (Honours) in Computing & IT (Software)](https://www.open.ac.uk/courses/computing-it/degrees/bsc-computing-it-software-q62-soft) degree at [The Open University](https://www.open.ac.uk). 
+Currently studying a [BSc (Honours) in Computing & IT (Software)](https://www.open.ac.uk/courses/computing-it/degrees/bsc-computing-it-software-q62-soft) degree at [The Open University](https://www.open.ac.uk).
+
+My main interests are in creating SaaS applications, full stack web development, mobile app development, DevOps, automation and open-source software. I have a passion for learning new technologies and programming languages. My go-to languages/frameworks/technologies are Python and Django for backend development, ReactJS for frontend development of complex data driven applications, NextJS for static site generation and server side rendering, GraphQL for API development, TailwindCSS for styling, Docker for containerisation, GitHub Actions for CI/CD, PostgreSQL for databases, Redis for caching and Flutter for mobile app development.
 
 ![](https://komarev.com/ghpvc/?username=your-adambirds&color=green&style=flat-square)
 
 ![](https://img.shields.io/github/followers/adambirds.svg?style=social&label=Follow&maxAge=2592000)
 ---
 ### Interests
-* Web Design
-* Python Development
-* Powershell Scripting
-* Open-Source Contributions
+* Creating SaaS Applications
+* Full Stack Web Development
+* Mobile App Development
+* DevOps
+* Automation
+* Open-Source Software
 
 ---
-### My Projects
+### My Public Projects
 * [adambirds/xkcd-pass-python](https://github.com/adambirds/xkcd-pass-python) - Python Package to generate random passwords inspired by XKCD.
 * [adambirds/xkcd-pass-pwsh](https://github.com/adambirds/xkcd-pass-pwsh) - PowerShell Module to generate random passwords inspired by XKCD.
 * [adambirds/pythonrobot-twitch-bot](https://github.com/adambirds/pythonrobot-twitch-bot) - Twitch Bot written in Python.
@@ -50,6 +54,9 @@ Currently studying a [BSc (Honours) in Computing & IT (Software)](https://www.op
 <a href="https://www.cprogramming.com"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>
 <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/></a>
 <a href="https://www.npmjs.com/"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
+<a href="https://dart.dev/"><img src="https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white&style=for-the-badge"/></a>
+<a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white&style=for-the-badge"/></a>
+<a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/></a>
 
 ---
 ### Databases
@@ -64,9 +71,13 @@ Currently studying a [BSc (Honours) in Computing & IT (Software)](https://www.op
 
 <a href="https://www.djangoproject.com"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/></a>
 <a href="https://graphql.org/"><img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/></a>
-<a href="https://getbootstrap.com"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
 <a href="https://www.apollographql.com/"><img src="https://img.shields.io/badge/-Apollo_GraphQL-311C87?style=for-the-badge&logo=apollo-graphql"/></a>
-
+<a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/></a>
+<a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/></a>
+<a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
+<a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/></a>
+<a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-%2302569B.svg?logo=flutter&logoColor=white&style=for-the-badge"/></a>
+<a href="https://getbootstrap.com"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
 ---
 ### Operating Systems
 
