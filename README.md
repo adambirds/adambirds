@@ -26,6 +26,7 @@ My main interests are in creating SaaS applications, full stack web development,
 * [adambirds/python-discord-insult-bot](https://github.com/adambirds/python-discord-insult-bot) - Discord Bot written in Python to insult people.
 * [adambirds/ssl-cert-expiry-tracker](https://github.com/adambirds/ssl-cert-expiry-tracker) - SSL Certificate Expiry Tracker written in Python with notifications to Zulip, Slack, Discord etc.
 * [adambirds/domain-expiration-checker](https://github.com/adambirds/domain-expiration-checker) - Domain Expiry Tracker written in Python with notifications to Zulip, Discord etc.
+* [adambirds/auto-add-github-webhooks](https://github.com/adambirds/auto-add-github-webhooks) - Automatically add GitHub Webhooks to repositories using the GitHub API and send notifications to Zulip, Discord, Slack, Microsoft Teams and Zabbix when scripts complete or fail.
 * [adambirds/recipe-zulip](https://github.com/adambirds/recipe-zulip) - Official Zulip Recipe for Franz & Ferdi.
 * [adambirds/Hubot-DSC-Resource](https://github.com/adambirds/Hubot-DSC-Resource) - Powershell DSC Resource for Hubot.
 * [adambirds/docker-compose-action](https://github.com/adambirds/docker-compose-action) - Github Action to allow running tests inside docker compose containers.
